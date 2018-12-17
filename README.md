@@ -1,30 +1,30 @@
-Xchange Core staging tree 0.24.0
+Reclaimcoin Core staging tree 0.24.0
 ===============================
 
-This repository contains the core for XCG - Xchange. 
+This repository contains the core for RCLM - Reclaimcoin. 
 
 This version DOES NOT contain the Escrow or Auction (Coming Soon) features.
 
-https://www.xcgtech.com
+https://www.rclmtech.com
 
 
-What is Xchange?
+What is Reclaimcoin?
 ----------------
 
-Xchange is an experimental new digital currency that enables anonymous, instant
-payments to anyone, anywhere in the world. Xchange uses peer-to-peer technology
+Reclaimcoin is an experimental new digital currency that enables anonymous, instant
+payments to anyone, anywhere in the world. Reclaimcoin uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
-are carried out collectively by the network. Xchange Core is the name of the open
+are carried out collectively by the network. Reclaimcoin Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Xchange Core software, see https://www.xcgtech.comm
+the Reclaimcoin Core software, see https://www.rclmtech.comm
 
 
 License
 -------
 
-Xchange Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Reclaimcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Testing
