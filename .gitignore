@@ -6,13 +6,13 @@ reset-files.bash
 *.tar.gz
 
 *.exe
-src/Xchange
-src/Xchanged
-src/Xchange-cli
-src/Xchange-tx
-src/test/test_Xchange
-src/qt/test/test_Xchange-qt
-src/bench/bench_Xchange
+src/Reclaimcoin
+src/Reclaimcoind
+src/Reclaimcoin-cli
+src/Reclaimcoin-tx
+src/test/test_Reclaimcoin
+src/qt/test/test_Reclaimcoin-qt
+src/bench/bench_Reclaimcoin
 
 # autoreconf
 Makefile.in
@@ -35,8 +35,8 @@ config.log
 config.status
 configure
 libtool
-src/config/Xchange-config.h
-src/config/Xchange-config.h.in
+src/config/Reclaimcoin-config.h
+src/config/Reclaimcoin-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
@@ -61,7 +61,7 @@ libconftest.dylib*
 *.pyc
 *.o
 *.o-*
-.Xchange
+.Reclaimcoin
 *.a
 *.pb.cc
 *.pb.h
@@ -80,12 +80,12 @@ libconftest.dylib*
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-Xchange-qt
-Xchange-Qt.app
+Reclaimcoin-qt
+Reclaimcoin-Qt.app
 
 # Unit-tests
 Makefile.test
-Xchange-qt_test
+Reclaimcoin-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -99,7 +99,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_Xchange.coverage/
+test_Reclaimcoin.coverage/
 total.coverage/
 coverage_percent.txt
 
@@ -122,12 +122,12 @@ share/BitcoindComparisonTool.jar
 .autotools
 /doc/doxygen/
 
-libXchangeconsensus.pc
-src/qt/Xchange-qt.bash
+libReclaimcoinconsensus.pc
+src/qt/Reclaimcoin-qt.bash
 qa/pull-tester/tests-config.sh
 
 #development symlinks
-Xchange-cli
-Xchanged
-Xchange-qt
+Reclaimcoin-cli
+Reclaimcoind
+Reclaimcoin-qt
 make
